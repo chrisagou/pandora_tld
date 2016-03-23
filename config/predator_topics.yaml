@@ -1,2 +1,2 @@
 predator_alert : /vision/predator_alert
-input_image_topic: /camera/image
+input_image_topic: /nao_robot/camera/top/camera/image_raw
